@@ -33,7 +33,7 @@ O Be The Hero é um projeto que visa conectar ONG's (Organizações não governa
 
 O Be The Hero foi desenvolvido com o objetivo de proporcionar um espaço para que qualquer pessoa possa ajudar monetariamente uma ONG, podendo de certa forma salvar o dia.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 23 a 27 de Março de 2020.
+Este é um projeto desenvolvido durante a **[Semana OmniStack #11](https://nextlevelweek.com/)**, apresentada nos dias 23 a 27 de Março de 2020.
 
 ## 🔖 Layout
 
